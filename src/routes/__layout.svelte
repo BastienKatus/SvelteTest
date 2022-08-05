@@ -8,7 +8,7 @@
     </div>
     <div class="flex-none">
         <ul class="menu menu-horizontal p-0">
-            <li><a href="/hello">Hello</a></li>
+            <li><a href="/hello">Document de Rendu</a></li>
             <li><a href="/settings">Settings</a></li>
             <li tabindex="0">
                 <a>
